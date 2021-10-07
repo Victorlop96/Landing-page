@@ -13,6 +13,7 @@ import "../styles/index.scss";
 import Home from "./component/home.jsx";
 import Main from "./main.jsx";
 import Navbar from "./component/Navbar.jsx";
+import Card from "./component/Card";
 import Footer from "./component/Footer.jsx";
 
 //render your react application
