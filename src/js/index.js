@@ -11,6 +11,9 @@ import "../styles/index.scss";
 
 //import your own components
 import Main from "./main.jsx";
+import Navbar from "./component/Navbar.jsx";
+import MyJumbotron from "./component/MyJumbotron.jsx";
+import Footer from "./component/Footer.jsx";
 
 //render your react application
 //ReactDOM.render(<Home />, document.querySelector("#app"));
