@@ -10,11 +10,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "../styles/index.scss";
 
 //import your own components
-import Home from "./component/home.jsx";
 import Main from "./main.jsx";
-import Navbar from "./component/Navbar.jsx";
-import Card from "./component/Card";
-import Footer from "./component/Footer.jsx";
 
 //render your react application
 //ReactDOM.render(<Home />, document.querySelector("#app"));
