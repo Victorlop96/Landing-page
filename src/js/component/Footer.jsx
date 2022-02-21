@@ -5,7 +5,7 @@ import Card from "react-bootstrap/Card";
 
 const Footer = () => {
 	return (
-		<div className="Footer">
+		<div className="Footer justify-content-bottom">
 			<Card className="text-center">
 				<Card.Footer bg="dark" className="text-muted">
 					Copyright &copy; 2021 4Geeks Academy. Grupo Victor, Diego y
